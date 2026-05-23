@@ -4,6 +4,8 @@ Espio is an open-source competitive intelligence agent prototype for founders.
 
 The first use case is Stockwin: monitor the AI trading and stock prediction market, collect competitor signals, and produce a weekly evidence-backed strategy brief.
 
+Live demo: https://liwagu.github.io/espio/
+
 ## Hackathon submission
 
 - Track: Agent
