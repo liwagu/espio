@@ -1,0 +1,21 @@
+{
+  "name": "espio",
+  "version": "0.1.0",
+  "description": "Competitive intelligence agent prototype for monitoring Stockwin competitors.",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "brief": "node scripts/generate-brief.mjs",
+    "check": "node scripts/generate-brief.mjs --check"
+  },
+  "keywords": [
+    "competitive-intelligence",
+    "agents",
+    "stockwin",
+    "hackathon",
+    "open-source"
+  ],
+  "author": "Liwa Gu",
+  "license": "MIT"
+}
